@@ -1,0 +1,20 @@
+.be {
+    background-color: yellow;
+}
+
+.ki {
+    background-color: green;
+}
+
+div {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+article {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 50%;
+    margin: auto;
+}
